@@ -1,3 +1,13 @@
+## V1.6.3 (`2025-10-07`)
+- 🐛 修复收到来自 `guild` 的指令时权限错检查成 `group` 的问题
+- 🐛 修复注册命令时命令ID不会自增的问题
+- 🐛 修复插件的加载、卸载、重载操作失败时报错 `[object Object]` 的问题
+
+## V1.6.2 (`2025-05-17`)
+- ⬆️ 更新依赖 `qq-bot-sdk` 至 `1.9.1`
+- ⬆️ 更新依赖 `pm2` 至 `5.4.3`
+- 🔒 删除 `.echo` 内置命令
+
 ## V1.6.1 (`2025-01-25`)
 - 🔒 解决 [`CVE-2023-45857`](https://github.com/advisories/GHSA-wf5p-g6vw-rhxx) 与 [`CVE-2024-56334`](https://github.com/advisories/GHSA-cvv5-9h9w-qp2m)
 
