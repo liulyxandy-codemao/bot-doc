@@ -50,7 +50,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: '© Cocotais 2024',
+      copyright: '© 2024-2025 Cocotais',
     },
 
     outline: {
