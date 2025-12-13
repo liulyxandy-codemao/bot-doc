@@ -26,6 +26,10 @@ features:
     details: 提供了详细的文档，丰富的代码补全。
 ---
 
-::: info
-Cocotais Bot 目前开发并不活跃，文档更新可能存在延迟。
-:::
+> 项目现使用 qq-bot-sdk 的 fork 版本 [@liulyxandy/qq-bot-sdk](https://www.npmjs.com/package/@liulyxandy/qq-bot-sdk)
+
+## 🚫 停止维护
+
+由于项目现存架构陈旧，且上游依赖包不活跃无法及时跟进QQ官方API更新，导致项目可用性不佳。综合考虑后，决定停止对 Cocotais Bot 的维护。
+
+**在最后一个稳定版本 v1.7.0 版本发布后，本项目将不再继续更新。**
